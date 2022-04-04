@@ -1,0 +1,14 @@
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.csprojAssemblyReference.cache
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.AddForm.resources
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.FindForm.resources
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.Form1.resources
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.csproj.GenerateResource.cache
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\bin\Debug\NTP.exe.config
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\bin\Debug\NTP.exe
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\bin\Debug\NTP.pdb
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\bin\Debug\Model.pdb
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.Properties.Resources.resources
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.csproj.CoreCompileInputs.cache
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.csproj.CopyComplete
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.exe
+C:\VS19\НТП-9\ЛР3\Clone\NTP\NTP\obj\Debug\NTP.pdb
